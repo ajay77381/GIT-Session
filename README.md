@@ -22,6 +22,7 @@ then we find when we creting any file it show untracked stage
 ### Git add - commond push the fiel in staging area
 
 git config --global user.email "you@example.com"
+
   git config --global user.name "Your Name"
 
 git commit-m - commond will push the fiel in git recorded area
