@@ -69,9 +69,14 @@ git checkout branchname
 
 git branch branchname
 
+### how to push the created branch on remote ?
+
+git push -u origin new createdbranchname
+
 ### How to delete branch ?
 
 git branch -d branchname
+
 
 .................
 For Hide / stash the the untracked file-
