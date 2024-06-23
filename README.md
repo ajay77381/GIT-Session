@@ -1,9 +1,10 @@
-What is Versional contral system?
+## What is Versional contral system?
+
 Versional control is a system that record/manages the changes of document /computer program etc over the time. It help us tracking the changes when multiple people work on the same project.
 
 What is GIT?
 
-Git is versional control system that help us to track the changes in the file and computer program . GIT bacally used in source code management but it can be user for keep records changes of any set of file.
+Git is versional control system that help us to track the changes in the file and computer program . GIT bacially used in source code management in software development  but it can be user for keep records changes of any set of file.
 
 
 
@@ -17,18 +18,18 @@ cd/Git
  
 
 then we find when we creting any file it show untracked stage
- for trackign we need to run commond - git add file name
-Git add - commond push the fiel in staging area
+ For trackign we need to run commond - git add file name
+### Git add - commond push the fiel in staging area
 
 git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 
-git commit-m -- commond will push the fiel in git recorded area
+git commit-m - commond will push the fiel in git recorded area
 
 
 .................
 
-For ignore any fiel 
+For ignore any file. 
 
 Need to creae 
 1>>  .gitignore
