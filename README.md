@@ -58,6 +58,12 @@ git push -u origin main
 ........................
 For switch one branch to another branch.
 git checkout branchname
+............................
+how to add the branch ?
+git branch branchname
+
+How to delete branch ?
+git branch -d branchname
 
 .................
 For Hide / stash the the untracked file-
