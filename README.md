@@ -110,5 +110,8 @@ git stash pop
 Once the devlopers has finished his code /features on his branch code will have to combined with the master branch this can be done two way -
 ### Git merge
 
+## Keep in mind (and I know this will be obvious to some people), this will clear you existing changes
+ git reset --merge
+
 ### gitrebase
 
