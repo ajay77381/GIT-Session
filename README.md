@@ -70,11 +70,11 @@ For switch one branch to another branch.
 git checkout branchname
 ............................
 
-### how to add the branch ?
+### How to add the branch ?
 
 git branch branchname
 
-### how to push the created branch on remote ?
+### How to push the created branch on remote ?
 
 git push -u origin new createdbranchname
 
