@@ -77,6 +77,21 @@ git push -u origin new createdbranchname
 
 git branch -d branchname
 
+### Note-Git clone copies all files to the local machine, while git pull only copies the modified files to the local machine. 
+
+### - if you want to check the log of every commit -
+
+git log
+
+git stash
+
+git stash -u
+
+git stash pop
+
+git revert  -- help to revert commit to a previous version .
+
+git revert commitid
 
 .................
 For Hide / stash the the untracked file-
@@ -85,3 +100,10 @@ git stash -u
 How to unstash file?
 
 git stash pop
+
+## Merging branch
+Once the devlopers has finished his code /features on his branch code will have to combined with the master branch this can be done two way -
+### Git merge
+
+### gitrebase
+
