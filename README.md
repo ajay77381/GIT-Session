@@ -42,9 +42,7 @@ How to show already commited file?
 
 git log --raw
 
-
-........................
-for push the file on GIT repository
+## For push the file on GIT repository
 
 echo "# git" >> README.md
 
@@ -65,10 +63,13 @@ git push -u origin main
 For switch one branch to another branch.
 git checkout branchname
 ............................
-how to add the branch ?
+
+### how to add the branch ?
+
 git branch branchname
 
-How to delete branch ?
+### How to delete branch ?
+
 git branch -d branchname
 
 .................
